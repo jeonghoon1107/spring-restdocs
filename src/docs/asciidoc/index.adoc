@@ -1,0 +1,18 @@
+ifndef::snippets[]
+:snippets: ../../../build/generated-snippets
+endif::[]
+= REST DOCS SAMPLE
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 3
+:sectlinks:
+
+[[introduction]]
+== 소개
+
+REST DOCS SAMPLE API
+
+=== 후니
+include::{snippets}/sample/http-response.adoc[]
